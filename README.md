@@ -14,5 +14,5 @@ Lifetime - $300(Mac/Linux/Windows)<br>
 15 Days - $150(Windows Only)
 <br>
 <br>
-<a Telegram href='https://t.me/mainbotpy'>
-<a Whatsapp href='https://api.whatsapp.com/message/2KF4P56OVD5QB1'>
+<a text='Telegram' href='https://t.me/mainbotpy'>
+<a text='Whatsapp' href='https://api.whatsapp.com/message/2KF4P56OVD5QB1'>
